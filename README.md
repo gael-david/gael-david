@@ -1,4 +1,4 @@
-👋  Hi, I’m Gaël, a self-taught web developer with a business master degree (Audencia)
+👋  Hi, I’m Gaël, a self-taught web developer with a business master's degree (Audencia)
 
 💻  I'm mainly working with HTML5/CSS3/Javascript and Node.js
 
