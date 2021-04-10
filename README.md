@@ -8,7 +8,7 @@
 
 📫  You can reach me by email at gaelcdavid@gmail.com
 
-🌝  Check out my latest project, Melies, a film app where you can rate films, manage your watchlist and create your own film collections. Melies also provides each film's streaming and rental availability: https://melies-app.herokuapp.com/ 
+🌝  Check out my latest project, Melies, a film app where you can rate films, manage your watchlist and create your own film collections. Melies also provides each film's streaming and rental availability: https://www.melies.app/
 
 <!---
 gael-david/gael-david is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
