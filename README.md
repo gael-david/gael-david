@@ -2,7 +2,7 @@
 
 💻  I'm mainly working with HTML5/CSS3/Javascript and Node.js
 
-🌱  I’m currently learning Vue.js and React
+⚛️  I’m currently improving my React and Next.js skills
 
 👀  I’m interested in finding a frontend/fullstack developer job
 
