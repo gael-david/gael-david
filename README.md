@@ -1,4 +1,4 @@
-👋  Hi, I’m Gaël David, a self-taught web developer and former Wavestone IT Consultant with a business master's degree (Audencia Business School)
+👋  Hi, I’m Gaël David, a self-taught web developer and former IT Consultant with a business master's degree (Audencia Business School)
 
 ⚛️  My favorite technologies currently are React, Next.js, Node.js and MongoDB
 
