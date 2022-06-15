@@ -4,7 +4,6 @@
 
 🌝  Check out my biggest project, Melies, a film app where you can rate films, manage your watchlist and create your own film collections. Melies also provides each film's streaming and rental availability: https://www.melies.app/
 
-☘️ With my brother Yann, I am currently co-building Ecolometrics, an open knowledge hub on ecological transitions that would help citizens better understand the state of our world: https://www.ecolometrics.org
 
 📫  You can reach me at gaelcdavid@gmail.com
 
